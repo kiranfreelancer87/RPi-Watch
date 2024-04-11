@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomAnimatedCheckBox">
+        <attr name="borderColor" format="color" />
+        <attr name="checkColor" format="color" />
+        <attr name="borderThickness" format="dimension" />
+        <attr name="checkSize" format="float" />
+    </declare-styleable>
+</resources>
